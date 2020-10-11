@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 227bcebbd3a6c5b42b6c4e4114cc0006
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 3361000244865469661
+    second: Lift hand
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: AnimatedScientistLift hand(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: persp1
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.31497368, y: 0.1548814, z: 0.15122606}
+      rotation: {x: 0.057106487, y: -0.8422162, z: 0.09103554, w: 0.5283212}
+      scale: {x: 1, y: 1, z: 1}
+    - name: scientist
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.0007700499, y: -0.000121002195, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoe_left
+      parentName: scientist
+      position: {x: -0.0007700499, y: 0.063691944, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: scientist1
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.0011984158, y: -0.0006190443, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: body
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_right 1
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_right
+      parentName: arm_right 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: glasses
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: glass2
+      parentName: glasses
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: glass1
+      parentName: glasses
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_left
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoe_left 1
+      parentName: leg_left
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_right
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoe_right
+      parentName: leg_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hat
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hat_sub
+      parentName: hat
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hat_sub1
+      parentName: hat
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_left 1
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_left
+      parentName: arm_left 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform1
+      parentName: scientist1
+      position: {x: -0.0011984158, y: 0.064189985, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_control_right
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.031385988, y: 0.0852692, z: 0.0031495774}
+      rotation: {x: -0.011054876, y: -0.019588523, z: 0.864217, w: 0.5026163}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_ctrl 1
+      parentName: shoulder_control_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: elbow_control 1
+      parentName: shoulder_control_right
+      position: {x: -0.013306849, y: 3.5387303e-17, z: 3.8738287e-18}
+      rotation: {x: 0.021013943, y: 0.03677818, z: 0.00008227561, w: 0.9991025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1 1
+      parentName: elbow_control 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_control 1
+      parentName: elbow_control 1
+      position: {x: -0.008153614, y: -6.228811e-17, z: -5.6327277e-19}
+      rotation: {x: 0.016119858, y: 0.031069688, z: -0.040551048, w: 0.9985642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle2 1
+      parentName: hand_control 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: handtip_control 1
+      parentName: hand_control 1
+      position: {x: -0.022506911, y: 4.4499233e-17, z: 1.5536308e-17}
+      rotation: {x: 0.017161602, y: -0.026988251, z: -0.84341025, w: 0.5363174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle3 1
+      parentName: handtip_control 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_control_left
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: -0.02888531, y: 0.0852692, z: 0.0031495774}
+      rotation: {x: 0.023261573, y: 0.017479492, z: 0.586996, w: 0.8090668}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder_ctrl
+      parentName: shoulder_control_left
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: elbow_control
+      parentName: shoulder_control_left
+      position: {x: -0.013306849, y: 3.5387303e-17, z: 3.8738287e-18}
+      rotation: {x: 0.021013945, y: 0.036778178, z: 0.0000822756, w: 0.9991025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle1
+      parentName: elbow_control
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand_control
+      parentName: elbow_control
+      position: {x: -0.008153614, y: -6.228811e-17, z: -5.6327277e-19}
+      rotation: {x: 0.016119858, y: 0.031069688, z: -0.04055105, w: 0.9985642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle2
+      parentName: hand_control
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: handtip_control
+      parentName: hand_control
+      position: {x: -0.022506911, y: 4.4499233e-17, z: 1.5536308e-17}
+      rotation: {x: 0.017161602, y: -0.026988251, z: -0.84341025, w: 0.5363174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: nurbsCircle3
+      parentName: handtip_control
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_control_right
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.013380099, y: 0.048132014, z: -0.00045460556}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh_ctrl_right 1
+      parentName: leg_control_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_control_right 1
+      parentName: leg_control_right
+      position: {x: 2.220446e-18, y: -0.019933736, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_ctrl_right 1
+      parentName: knee_control_right 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_control_right 1
+      parentName: knee_control_right 1
+      position: {x: -0, y: -0.022398392, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_ctrl_right 1
+      parentName: foot_control_right 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leg_control_left
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: -0.011881139, y: 0.048132014, z: -0.00045460556}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh_ctrl_right
+      parentName: leg_control_left
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_control_right
+      parentName: leg_control_left
+      position: {x: 2.220446e-18, y: -0.019933736, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_ctrl_right
+      parentName: knee_control_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_control_right
+      parentName: knee_control_right
+      position: {x: -0, y: -0.022398392, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_ctrl_right
+      parentName: foot_control_right
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_right
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.031385988, y: 0.0852692, z: 0.0031495774}
+      rotation: {x: 0.022778383, y: -0.039245535, z: 0.86398745, w: 0.50146455}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: joint2 1
+      parentName: arm_right
+      position: {x: -0.013306849, y: 0, z: 3.282964e-18}
+      rotation: {x: 0.021013953, y: 0.03677818, z: 0.00008226925, w: 0.99910253}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1}
+    - name: joint3 1
+      parentName: joint2 1
+      position: {x: -0.008153614, y: -6.217249e-17, z: -2.220446e-18}
+      rotation: {x: 0.0132604595, y: 0.019648029, z: -0.11471671, w: 0.9931155}
+      scale: {x: 1.0000005, y: 1.0000004, z: 0.99999994}
+    - name: joint4 1
+      parentName: joint3 1
+      position: {x: -0.022506911, y: 3.5527136e-17, z: 1.7763568e-17}
+      rotation: {x: 0.017161593, y: -0.02698825, z: -0.8434102, w: 0.53631735}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_leg_left
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: -0.011881139, y: 0.048132014, z: -0.00045460556}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_knee_right
+      parentName: joint_leg_left
+      position: {x: -2.220446e-18, y: -0.019933736, z: -6.938894e-20}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_foot_right
+      parentName: joint_knee_right
+      position: {x: -2.220446e-18, y: -0.022398392, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_leg_right
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: 0.013380099, y: 0.048132014, z: -0.00045460556}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_knee_right 1
+      parentName: joint_leg_right
+      position: {x: -0, y: -0.019933736, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint_foot_right 1
+      parentName: joint_knee_right 1
+      position: {x: -2.220446e-18, y: -0.022398392, z: 6.938894e-20}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: arm_left
+      parentName: AnimatedScientistLift hand(Clone)
+      position: {x: -0.028032083, y: 0.0852692, z: 0.0031495774}
+      rotation: {x: 0.106834404, y: -0.025599923, z: 0.519437, w: 0.8474174}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint2
+      parentName: arm_left
+      position: {x: -0.013053004, y: -0.00055470475, z: 0.002255246}
+      rotation: {x: 0.02101393, y: 0.036778186, z: 0.00008225825, w: 0.99910253}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: joint3
+      parentName: joint2
+      position: {x: -0.008153614, y: -1.7763568e-17, z: -1.0547119e-17}
+      rotation: {x: 0.016119894, y: 0.031069702, z: -0.040551025, w: 0.9985642}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: joint4
+      parentName: joint3
+      position: {x: -0.022506911, y: 8.8817837e-17, z: -4.9960034e-18}
+      rotation: {x: 0.017161595, y: -0.026988272, z: -0.84341013, w: 0.53631747}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999934}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

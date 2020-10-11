@@ -1,0 +1,526 @@
+e32:SSL receive failed.\nread: SSL_read encountered an EOF.: unknown network error 0\n
+p1:-1 0 Change 128634 created with 2 open file(s).
+p1:-1 0 Submitting change 128634.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/CameraController.cs#4
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/CameraController.cs.meta#4
+p1:-1 0 Change 128634 submitted.
+p1:-1 0 Change 128635 created with 2 open file(s).
+p1:-1 0 Submitting change 128635.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PlayerController.cs#5
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PlayerController.cs.meta#5
+p1:-1 0 Change 128635 submitted.
+p1:-1 1 Change 128636 created with 2 open file(s).
+p1:-1 1 Submitting change 128636.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PlayerController.cs#6
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PlayerController.cs.meta#6
+p1:-1 1 Change 128636 submitted.
+p1:-1 1 Change 128650 created with 1 open file(s).
+p1:-1 1 Submitting change 128650.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/PastScene 1.unity#10
+p1:-1 1 Change 128650 submitted.
+p1:-1 1 Change 128653 created with 2 open file(s).
+p1:-1 1 Submitting change 128653.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#1
+p1:-1 1 Change 128653 submitted.
+p1:-1 1 Change 128694 created with 2 open file(s).
+p1:-1 1 Submitting change 128694.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#2
+p1:-1 2 Change 128694 submitted.
+p1:-1 1 Change 128695 created with 2 open file(s).
+p1:-1 1 Submitting change 128695.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#3
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#3
+p1:-1 1 Change 128695 submitted.
+p1:-1 1 Change 128697 created with 1 open file(s).
+p1:-1 1 Submitting change 128697.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#4
+p1:-1 2 Change 128697 submitted.
+p1:-1 1 Change 128698 created with 1 open file(s).
+p1:-1 1 Submitting change 128698.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#5
+p1:-1 1 Change 128698 submitted.
+p1:-1 0 Change 128699 created with 2 open file(s).
+p1:-1 0 Submitting change 128699.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#6
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#4
+p1:-1 2 Change 128699 submitted.
+p1:-1 1 Change 128750 created with 2 open file(s).
+p1:-1 1 Submitting change 128750.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PlayerController.cs#7
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PlayerController.cs.meta#7
+p1:-1 1 Change 128750 submitted.
+p1:-1 0 Change 128754 created with 4 open file(s).
+p1:-1 0 Submitting change 128754.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Sound Assets/Knocking_Metal_HighPitch_01 1.wav#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Sound Assets/Knocking_Metal_HighPitch_01 1.wav.meta#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Sound Assets/Knocking_Metal_LowPitch_01 1.wav#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Sound Assets/Knocking_Metal_LowPitch_01 1.wav.meta#1
+p1:-1 1 Change 128754 submitted.
+p1:-1 1 Change 128762 created with 2 open file(s).
+p1:-1 1 Submitting change 128762.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#7
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#5
+p1:-1 2 Change 128762 submitted.
+p1:-1 0 Change 128765 created with 2 open file(s).
+p1:-1 0 Submitting change 128765.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs#3
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs.meta#3
+p1:-1 0 Change 128765 submitted.
+p1:-1 0 Change 128767 created with 2 open file(s).
+p1:-1 0 Submitting change 128767.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/IrondoorTrigger.cs#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/IrondoorTrigger.cs.meta#1
+p1:-1 0 Change 128767 submitted.
+p1:-1 0 Change 128770 created with 1 open file(s).
+p1:-1 0 Submitting change 128770.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/ProjectSettings/DynamicsManager.asset#3
+p1:-1 1 Change 128770 submitted.
+p1:-1 0 Change 128771 created with 2 open file(s).
+p1:-1 0 Submitting change 128771.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/Counter 1.prefab#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/Counter 1.prefab.meta#1
+p1:-1 0 Change 128771 submitted.
+p1:-1 0 Change 128777 created with 1 open file(s).
+p1:-1 0 Submitting change 128777.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#8
+p1:-1 1 Change 128777 renamed change 128779 and submitted.
+p1:-1 0 Change 128794 created with 2 open file(s).
+p1:-1 0 Submitting change 128794.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/PressurePlate.prefab#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/PressurePlate.prefab.meta#1
+p1:-1 1 Change 128794 submitted.
+p1:-1 1 Change 128795 created with 2 open file(s).
+p1:-1 1 Submitting change 128795.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/DeactivateIronbar.cs#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/DeactivateIronbar.cs.meta#1
+p1:-1 1 Change 128795 submitted.
+p1:-1 1 Change 128796 created with 4 open file(s).
+p1:-1 1 Submitting change 128796.
+p1:-1 1 Locking 4 files ...
+p1:-1 1 move/delete //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/DeactivateIronbar.cs#2
+p1:-1 1 move/delete //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/DeactivateIronbar.cs.meta#2
+p1:-1 1 move/add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/DeactivateIronbar.cs#1
+p1:-1 1 move/add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/DeactivateIronbar.cs.meta#1
+p1:-1 1 Change 128796 submitted.
+p1:-1 1 Change 128801 created with 2 open file(s).
+p1:-1 1 Submitting change 128801.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs#4
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs.meta#4
+p1:-1 1 Change 128801 submitted.
+p1:-1 1 Change 128804 created with 2 open file(s).
+p1:-1 1 Submitting change 128804.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs#5
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs.meta#5
+p1:-1 1 Change 128804 submitted.
+p1:-1 0 Change 128807 created with 2 open file(s).
+p1:-1 0 Submitting change 128807.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#9
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#6
+p1:-1 3 Change 128807 submitted.
+p1:-1 0 Change 128825 created with 2 open file(s).
+p1:-1 0 Submitting change 128825.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ItemRead.cs#7
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ItemRead.cs.meta#7
+p1:-1 0 Change 128825 submitted.
+p1:-1 1 Change 128826 created with 2 open file(s).
+p1:-1 1 Submitting change 128826.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#10
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#7
+p1:-1 1 Change 128826 submitted.
+p1:-1 0 Change 128835 created with 2 open file(s).
+p1:-1 0 Submitting change 128835.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/GameObject.prefab#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/GameObject.prefab.meta#1
+p1:-1 1 Change 128835 submitted.
+p1:-1 0 Change 128836 created with 4 open file(s).
+p1:-1 0 Submitting change 128836.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/GameObject.prefab#2
+p1:-1 0 move/delete //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/GameObject.prefab.meta#2
+p1:-1 0 move/add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/Segment3 Part2.prefab#1
+p1:-1 0 move/add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/Segment3 Part2.prefab.meta#1
+p1:-1 0 Change 128836 submitted.
+p1:-1 0 Change 128837 created with 1 open file(s).
+p1:-1 0 Submitting change 128837.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#11
+p1:-1 0 Change 128837 submitted.
+p1:-1 1 Change 128867 created with 2 open file(s).
+p1:-1 1 Submitting change 128867.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/demon.jpg#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/demon.jpg.meta#1
+p1:-1 3 Change 128867 submitted.
+p1:-1 1 Change 128871 created with 2 open file(s).
+p1:-1 1 Submitting change 128871.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#1
+p1:-1 1 Change 128871 submitted.
+p1:-1 1 Change 128872 created with 2 open file(s).
+p1:-1 1 Submitting change 128872.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ChasebarDisplay.cs#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ChasebarDisplay.cs.meta#1
+p1:-1 2 Change 128872 submitted.
+p1:-1 1 Change 128874 created with 2 open file(s).
+p1:-1 1 Submitting change 128874.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ChasebarDisplay.cs#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ChasebarDisplay.cs.meta#2
+p1:-1 1 Change 128874 submitted.
+p1:-1 0 Change 128875 created with 2 open file(s).
+p1:-1 0 Submitting change 128875.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/demon.jpg#2
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/demon.jpg.meta#2
+p1:-1 2 Change 128875 submitted.
+p1:-1 1 Change 128876 created with 2 open file(s).
+p1:-1 1 Submitting change 128876.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/pursuer.png#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/pursuer.png.meta#1
+p1:-1 1 Change 128876 submitted.
+p1:-1 0 Change 128878 created with 2 open file(s).
+p1:-1 0 Submitting change 128878.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/PastScene 1.unity#11
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/PastScene 1.unity.meta#3
+p1:-1 2 Change 128878 submitted.
+p1:-1 1 Change 128879 created with 2 open file(s).
+p1:-1 1 Submitting change 128879.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/Slider.prefab#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/Slider.prefab.meta#1
+p1:-1 1 Change 128879 submitted.
+p1:-1 0 Change 128957 created with 2 open file(s).
+p1:-1 0 Submitting change 128957.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#12
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity.meta#8
+p1:-1 1 Change 128957 submitted.
+p1:-1 0 Change 128958 created with 1 open file(s).
+p1:-1 0 Submitting change 128958.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/3rd segment.unity#13
+p1:-1 0 Change 128958 submitted.
+p1:-1 2 Change 128975 created with 2 open file(s).
+p1:-1 2 Submitting change 128975.
+p1:-1 2 Locking 2 files ...
+p1:-1 2 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/PaperPile (1).prefab#1
+p1:-1 2 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/PaperPile (1).prefab.meta#1
+p1:-1 2 Change 128975 submitted.
+p1:-1 1 Change 128976 created with 2 open file(s).
+p1:-1 1 Submitting change 128976.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#2
+p1:-1 1 Change 128976 submitted.
+p1:-1 0 Change 128977 created with 2 open file(s).
+p1:-1 0 Submitting change 128977.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#3
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#3
+p1:-1 0 Change 128977 submitted.
+p1:-1 1 Change 128981 created with 2 open file(s).
+p1:-1 1 Submitting change 128981.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/flask_instruction_page.png#3
+p1:-1 4 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/flask_instruction_page.png.meta#3
+p1:-1 5 Change 128981 submitted.
+p1:-1 1 Change 128982 created with 1 open file(s).
+p1:-1 1 Submitting change 128982.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/UI/Potion.png.meta#3
+p1:-1 1 Change 128982 submitted.
+p1:-1 1 Change 128994 created with 2 open file(s).
+p1:-1 1 Submitting change 128994.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/DestroyDoor.cs#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/DestroyDoor.cs.meta#1
+p1:-1 1 Change 128994 submitted.
+p1:-1 0 Change 128995 created with 2 open file(s).
+p1:-1 0 Submitting change 128995.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#4
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#4
+p1:-1 0 Change 128995 submitted.
+p1:-1 1 Change 128996 created with 2 open file(s).
+p1:-1 1 Submitting change 128996.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity.meta#2
+p1:-1 1 Change 128996 submitted.
+p1:-1 0 Change 129005 created with 2 open file(s).
+p1:-1 0 Submitting change 129005.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs#7
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/ScaleMeasurer.cs.meta#7
+p1:-1 0 Change 129005 submitted.
+p1:-1 0 Change 129006 created with 2 open file(s).
+p1:-1 0 Submitting change 129006.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity#3
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity.meta#3
+p1:-1 1 Change 129006 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 1 Change 129186 created with 2 open file(s).
+p1:-1 1 Submitting change 129186.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity#4
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity.meta#4
+p1:-1 1 Change 129186 submitted.
+p1:-1 0 Change 129187 created with 1 open file(s).
+p1:-1 0 Submitting change 129187.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Main.unity#5
+p1:-1 0 Change 129187 submitted.
+C:/Users/etc-student/Perforce/MincanY_ETC/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Clip/DogInjure.mp4.meta - file(s) not on client.
+
+w1:C:/Users/etc-student/Perforce/MincanY_ETC/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Clip/DogInjure.mp4.meta - file(s) not on client.\n
+p1:-1 1 Change 129235 created with 2 open file(s).
+p1:-1 1 Submitting change 129235.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#15
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#8
+p1:-1 6 Change 129235 submitted.
+p1:-1 0 Change 129238 created with 1 open file(s).
+p1:-1 0 Submitting change 129238.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Victory.unity#3
+p1:-1 1 Change 129238 submitted.
+p1:-1 0 Change 129254 created with 2 open file(s).
+p1:-1 0 Submitting change 129254.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/VictoryTrigger.cs#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/VictoryTrigger.cs.meta#1
+p1:-1 0 Change 129254 submitted.
+p1:-1 0 Change 129261 created with 2 open file(s).
+p1:-1 0 Submitting change 129261.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Clip/RewindClip.mp4#1
+p1:-1 42 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Clip/RewindClip.mp4.meta#1
+p1:-1 43 Change 129261 submitted.
+p1:-1 0 Change 129264 created with 2 open file(s).
+p1:-1 0 Submitting change 129264.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#16
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#9
+p1:-1 1 Change 129264 submitted.
+p1:-1 1 Change 129270 created with 2 open file(s).
+p1:-1 1 Submitting change 129270.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#6
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#6
+p1:-1 1 Change 129270 submitted.
+p1:-1 0 Change 129275 created with 2 open file(s).
+p1:-1 0 Submitting change 129275.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/SceneController.cs#11
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/SceneController.cs.meta#11
+p1:-1 0 Change 129275 submitted.
+p1:-1 1 Change 129276 created with 2 open file(s).
+p1:-1 1 Submitting change 129276.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#7
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#7
+p1:-1 1 Change 129276 submitted.
+p1:-1 0 Change 129277 created with 2 open file(s).
+p1:-1 0 Submitting change 129277.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#17
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#10
+p1:-1 3 Change 129277 submitted.
+p1:-1 0 Change 129284 created with 2 open file(s).
+p1:-1 0 Submitting change 129284.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#8
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#8
+p1:-1 0 Change 129284 submitted.
+p1:-1 0 Change 129285 created with 2 open file(s).
+p1:-1 0 Submitting change 129285.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/SceneController.cs#12
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/SceneController.cs.meta#12
+p1:-1 0 Change 129285 submitted.
+p1:-1 0 Change 129286 created with 2 open file(s).
+p1:-1 0 Submitting change 129286.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#18
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#11
+p1:-1 1 Change 129286 submitted.
+p1:-1 0 Change 129305 created with 2 open file(s).
+p1:-1 0 Submitting change 129305.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#9
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#9
+p1:-1 1 Change 129305 submitted.
+p1:-1 1 Change 129306 created with 2 open file(s).
+p1:-1 1 Submitting change 129306.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs#10
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/PursuerController.cs.meta#10
+p1:-1 1 Change 129306 submitted.
+p1:-1 1 Change 129312 created with 2 open file(s).
+p1:-1 1 Submitting change 129312.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/SceneController.cs#13
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/SceneController.cs.meta#13
+p1:-1 1 Change 129312 submitted.
+p1:-1 1 Change 129317 created with 2 open file(s).
+p1:-1 1 Submitting change 129317.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/FutureLabController.cs#4
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/FutureLabController.cs.meta#4
+p1:-1 1 Change 129317 submitted.
+p1:-1 1 Change 129318 created with 2 open file(s).
+p1:-1 1 Submitting change 129318.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLab 2.unity#7
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLab 2.unity.meta#4
+p1:-1 1 Change 129318 submitted.
+p1:-1 0 Change 129379 created with 2 open file(s).
+p1:-1 0 Submitting change 129379.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#19
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#12
+p1:-1 2 Change 129379 submitted.
+p1:-1 1 Change 129381 created with 2 open file(s).
+p1:-1 1 Submitting change 129381.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Start.unity#5
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Start.unity.meta#5
+p1:-1 1 Change 129381 submitted.
+p1:-1 1 Change 129397 created with 2 open file(s).
+p1:-1 1 Submitting change 129397.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#20
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#13
+p1:-1 1 Change 129397 submitted.
+p1:-1 0 Change 129408 created with 1 open file(s).
+p1:-1 0 Submitting change 129408.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/Segment3 Part 1 1.prefab#5
+p1:-1 2 Change 129408 submitted.
+p1:-1 0 Change 129409 created with 1 open file(s).
+p1:-1 0 Submitting change 129409.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Prefabs/LevelSegments/Segment3 Part2.prefab#3
+p1:-1 1 Change 129409 submitted.
+e32:SSL receive failed.\nread: SSL_read encountered an EOF.: unknown network error 0\n
+p1:-1 1 Change 129562 created with 2 open file(s).
+p1:-1 1 Submitting change 129562.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#27
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#19
+p1:-1 1 Change 129562 submitted.
+p1:-1 0 Change 129564 created with 2 open file(s).
+p1:-1 0 Submitting change 129564.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/DeactivateIronbar.cs#2
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/DeactivateIronbar.cs.meta#2
+p1:-1 0 Change 129564 submitted.
+p1:-1 1 Change 129566 created with 1 open file(s).
+p1:-1 1 Submitting change 129566.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#28
+p1:-1 3 Change 129566 submitted.
+p1:-1 0 Change 129567 created with 2 open file(s).
+p1:-1 0 Submitting change 129567.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/IrondoorTrigger.cs#2
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/IrondoorTrigger.cs.meta#2
+p1:-1 0 Change 129567 submitted.
+p1:-1 0 Change 129568 created with 2 open file(s).
+p1:-1 0 Submitting change 129568.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#29
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#20
+p1:-1 1 Change 129568 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 129743 created with 2 open file(s).
+p1:-1 0 Submitting change 129743.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/IrondoorTrigger.cs#3
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/IrondoorTrigger.cs.meta#3
+p1:-1 0 Change 129743 submitted.
+p1:-1 0 Change 129775 created with 2 open file(s).
+p1:-1 0 Submitting change 129775.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLabAlternative.unity#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLabAlternative.unity.meta#1
+p1:-1 1 Change 129775 submitted.
+p1:-1 0 Change 129777 created with 2 open file(s).
+p1:-1 0 Submitting change 129777.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLabAlternative.unity#2
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLabAlternative.unity.meta#2
+p1:-1 0 Change 129777 submitted.
+p1:-1 0 Change 129789 created with 1 open file(s).
+p1:-1 0 Submitting change 129789.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Victory.unity#4
+p1:-1 1 Change 129789 submitted.
+p1:-1 1 Change 129791 created with 2 open file(s).
+p1:-1 1 Submitting change 129791.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity#31
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/MainScene_LightingReworked.unity.meta#22
+p1:-1 2 Change 129791 submitted.
+p1:-1 1 Change 129793 created with 2 open file(s).
+p1:-1 1 Submitting change 129793.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLabAlternative.unity#3
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/FutureLabAlternative.unity.meta#3
+p1:-1 1 Change 129793 submitted.
+p1:-1 0 Change 129795 created with 2 open file(s).
+p1:-1 0 Submitting change 129795.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/AlterFutureController.cs#1
+p1:-1 0 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/AlterFutureController.cs.meta#1
+p1:-1 0 Change 129795 submitted.
+p1:-1 1 Change 129796 created with 2 open file(s).
+p1:-1 1 Submitting change 129796.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/VictoryTrigger.cs#2
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/VictoryTrigger.cs.meta#2
+p1:-1 1 Change 129796 submitted.
+p1:-1 1 Change 129905 created with 2 open file(s).
+p1:-1 1 Submitting change 129905.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/QuitGame.cs#1
+p1:-1 1 add //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scripts/QuitGame.cs.meta#1
+p1:-1 1 Change 129905 submitted.
+p1:-1 0 Change 129914 created with 1 open file(s).
+p1:-1 0 Submitting change 129914.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team08/working/SaveDoggo/Assets/Scenes/Victory.unity#5
+p1:-1 1 Change 129914 submitted.
